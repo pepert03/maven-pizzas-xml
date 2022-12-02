@@ -46,7 +46,5 @@ def main():
     tree.write('pizzas.xml')
 
 
-
-
 if __name__ == "__main__":
     main()
